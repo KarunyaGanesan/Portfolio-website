@@ -1,0 +1,2 @@
+# Portfolio-website
+**I’m excited to share my first portfolio project, which I developed using HTML and CSS. This project incorporates a wide range of HTML tags and basic CSS to create a dynamic and engaging web page. It allowed me to explore the fundamentals of web design and see firsthand how these basics come together to build a functional and visually appealing site. I am eager to continue developing my skills in web design and tackle new challenges.**
