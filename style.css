@@ -1,0 +1,92 @@
+*{
+    border: 0;
+    margin: 0; 
+    
+}
+body{
+    font-family: "Gupter", serif;
+    font-weight: 500;
+  font-style: normal;
+}
+.container{
+    padding: 25px;
+}
+.section-1{
+    background-color: rgb(225, 43, 43,0.5);
+    color: white;
+    padding: 20px;
+    margin-top:10px;
+}
+.section-1__contact{
+    background-color:pink;
+    color:brown;
+    display: inline-block;
+    text-decoration: none;
+    padding: 3px 3px;  
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+.section-1__name{
+    font-size: 60px;
+    margin-bottom: 5px;
+}
+.section-1__prof{
+    font-size:30px;
+}
+.section-3,.section-2,.section-4,.section-5{
+    margin-top: 25px;
+}
+.section-3__li,.section-2__desc,.section-4__li,.section-5__icon{
+    margin-top: 25px;
+}
+.section-5{
+    background-color:rgba(225, 43, 43,0.69);
+    color: white;
+    padding: 20px;
+}
+.section-5__head a{
+    color: whitesmoke;
+}
+.section-3 li,.section-4 li{
+    list-style-type: none;
+}
+.section-3{
+    background-color: rgba(165, 42, 42, 0.697);
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    height:180px;
+    border-radius: 10px;
+    vertical-align: top;
+} 
+.section-4{
+    background-color: rgba(165, 42, 42, 0.8);
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    height: 180px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+
+.contact{
+    margin-top: 20px;
+}
+.contact__in,contact__text,.contact__submit{
+    margin-top: 15px;
+}
+ .contact__in{
+    padding: 10px;
+    border-bottom: solid black 1px;
+ }
+ .contact__text{
+    padding: 10px;
+    border: solid black 1px;
+ }
+ .contact__submit{
+    padding:10px;
+    background-color: brown;
+    color: white;
+ }
